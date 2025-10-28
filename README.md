@@ -50,7 +50,8 @@ Pizza-Sales-Analysis/
 - Average Order Value  
 - Total Pizzas Sold  
 - Top 5 Pizzas by Revenue  
-- Sales by Category & Size  
+- Average Pizzas per Order
+- Total Orders 
 - Hourly & Weekly Sales Trends  
 
 ---
@@ -65,11 +66,10 @@ Pizza-Sales-Analysis/
 
 ## 🧾 Documentation
 A detailed project documentation file (`Pizza_Sales_Analysis_Documentation.docx`) includes:
-- Project overview and objectives  
-- Data preparation and cleaning  
+- Project overview and Problem Statement
 - SQL queries and logic used  
-- Dashboard walkthrough  
-- Final insights and conclusions  
+- Final insights and recommendations
+- Conclusion  
 
 ---
 
@@ -81,10 +81,9 @@ Open the SQL file in MySQL and execute the queries.
 
 Open the Power BI file (.pbix) to view the dashboard.
 
-Check the documentation for full explanation of the process and results.
-
 📧 Contact
 Author: Sai Deepak
+Phone Number: 7032014406
 Location: Visakhapatnam, India
 
 If you found this project useful, please ⭐ star the repository!
