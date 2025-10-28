@@ -1,58 +1,47 @@
 # 🍕 Pizza Sales Analysis using MySQL & Power BI
 
 ## 📊 Project Overview
-This project focuses on analyzing pizza sales data to uncover insights into business performance, customer preferences, and sales trends.  
-Using **MySQL** for data analysis and **Power BI** for visualization, this project provides a clear, data-driven overview of sales performance and key business metrics.
+This project analyzes pizza sales data to derive insights into business performance, customer preferences, and revenue trends.  
+Using **MySQL** for data analysis and **Power BI** for visualization, it helps identify top-performing pizzas, sales patterns, and key business KPIs.
 
 ---
 
 ## 🧠 Objectives
 - Analyze pizza sales data using SQL queries.  
-- Identify top-performing pizzas and revenue trends.  
-- Evaluate sales distribution by category, size, and time.  
-- Build an interactive Power BI dashboard for insights visualization.  
+- Identify top-selling pizzas and revenue trends.  
+- Evaluate sales performance by category, size, and time.  
+- Build an interactive Power BI dashboard for visualization.  
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 | Tool | Purpose |
 |------|----------|
-| **MySQL** | Data analysis, queries, and KPIs |
+| **MySQL** | Data analysis, querying, and KPI calculations |
 | **Power BI** | Dashboard and data visualization |
-| **Microsoft Word** | Documentation |
-| **GitHub** | Version control and project sharing |
+| **Microsoft Word** | Project documentation |
+| **GitHub** | Version control and sharing |
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Files Included
 Pizza-Sales-Analysis/
 │
-├── Dataset/
-│ └── pizza_sales.csv
-│
-├── SQL Queries/
-│ └── pizza_sales_analysis.sql
-│
-├── PowerBI Dashboard/
-│ ├── pizza_sales_dashboard.pbix
-│ └── dashboard_screenshots/
-│ ├── dashboard_overview.png
-│ └── insights_page.png
-│
-├── Documentation/
-│ └── Pizza_Sales_Analysis_Documentation.docx
-│
+├── pizza_sales_excel_file.xlsx
+├── pizza_sales_analysis.sql
+├── pizza_sales_dashboard.pbix
+├── dashboard_overview.png
+├── sales_by_category.png
+├── Pizza_Sales_Analysis_Documentation.docx
 └── README.md
-
 
 ---
 
 ## 🧩 Key Insights
-- **Top 5 pizzas** contributing to overall revenue.  
-- **Peak sales hours** and **best-performing days.**  
-- **Sales contribution by category and size.**  
-- **Average order value and total revenue trends.**
+- **Top 5 pizzas** contributing most to revenue.  
+- **Peak hours and days** for maximum sales.  
+- **Sales distribution** by pizza category and size.  
+- **Total revenue** and **average order value** metrics.
 
 ---
 
@@ -67,24 +56,35 @@ Pizza-Sales-Analysis/
 ---
 
 ## 📈 Power BI Dashboard Highlights
-- **Interactive filters** for categories and sizes  
-- **Dynamic KPIs** for revenue and orders  
-- **Visual representation** of sales trends and best-sellers  
-- **User-friendly interface** for business decision-making  
+- **Interactive filters** for category and size.  
+- **Dynamic KPIs** for revenue, orders, and quantity.  
+- **Visual charts** showing sales trends and customer preferences.  
+- **Clean layout** for better business understanding.
 
 ---
 
 ## 🧾 Documentation
-A detailed project documentation file (`Pizza_Sales_Analysis_Documentation.docx`) is included, explaining:
-- Project purpose  
-- Data preparation steps  
-- SQL queries used  
-- Power BI dashboard walkthrough  
-- Key findings and conclusions  
+A detailed project documentation file (`Pizza_Sales_Analysis_Documentation.docx`) includes:
+- Project overview and objectives  
+- Data preparation and cleaning  
+- SQL queries and logic used  
+- Dashboard walkthrough  
+- Final insights and conclusions  
 
 ---
 
 ## 🚀 How to Use
-1. **Clone the repository**  
+1. **Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/Pizza-Sales-Analysis.git
+Open the SQL file in MySQL and execute the queries.
+
+Open the Power BI file (.pbix) to view the dashboard.
+
+Check the documentation for full explanation of the process and results.
+
+📧 Contact
+Author: Sai Deepak
+Location: Visakhapatnam, India
+
+If you found this project useful, please ⭐ star the repository!
